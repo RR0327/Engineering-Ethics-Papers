@@ -86,6 +86,59 @@
 
 ---
 
+### Additional Questions to Reach Your Dataset Target
+
+To help you reach this optimal dataset depth, here are 6 supplementary questions to add to the 10 provided previously:
+
+#### Category: Technical Literacy (Information Asymmetry)
+
+**11. Which of the following elements does a standard website browser's "Incognito" or "Private Browsing" mode protect you from? (Select all that apply)**
+
+- [ ] It prevents the website from tracking your real-time IP address or geographical location.
+- [ ] It prevents your local device from saving your browsing history and cookies after the session is closed.
+- [ ] It stops internet service providers (ISPs) or network administrators from monitoring your traffic.
+- [ ] It blocks all third-party advertising tracking networks from profiling you.
+
+**12. When a website states it is "GDPR Compliant," what does this legally mean regarding your personal data?**
+
+- [ ] The website is completely safe and guarantees it will never share or sell your data.
+- [ ] The website is legally obligated to give you clear choices to access, delete, or restrict how your data is processed.
+- [ ] The website has been officially verified by a government agency as ethically perfect.
+
+#### Category: Behavioral Choices (The Privacy Paradox)
+
+**13. Have you ever installed or utilized any of the following privacy-preserving tools? (Select all that apply)**
+
+- [ ] Ad-blockers (e.g., uBlock Origin)
+- [ ] Privacy-focused web browsers (e.g., Brave, Tor, Firefox with strict settings)
+- [ ] Virtual Private Networks (VPNs)
+- [ ] Automated cookie-rejection browser extensions (e.g., Consent-O-Matic)
+- [ ] None of the above
+
+**14. If a web application requires you to log in using a social media account (e.g., "Sign in with Facebook/Google") or create a separate account by sharing your email, how do you proceed?**
+
+- [ ] I choose the social media login because it is faster, regardless of data sharing.
+- [ ] I take the time to create a separate account to limit data cross-referencing between platforms.
+- [ ] I actively seek out an option to browse as a guest, or leave the site if forced to sign in.
+
+#### Category: Interface Manipulation Experience
+
+**15. How frequently do you feel pressured or forced into accepting cookie policies because the "Manage Options" interface is too confusing to navigate?**
+
+- [ ] Always
+- [ ] Frequently
+- [ ] Occasionally
+- [ ] Rarely
+- [ ] Never
+
+**16. Imagine you are downloading an app or accessing a site, and it asks for your location permission accompanied by a text saying: _"We need your location to give you a personalized experience. Skipping this may break features."_ How do you interpret this text?**
+
+- [ ] As a purely helpful, objective technical explanation.
+- [ ] As an intentional design tactic meant to create fear of missing out (FOMO) so I grant the permission.
+- [ ] I do not think about the wording; I just look at the button options.
+
+---
+
 ### Tips for Implementation:
 
 - **Randomization:** If your survey tool supports it, randomize the order of options in Section 3 to ensure participants do not guess the answers.
