@@ -1,0 +1,13 @@
+# Research Methodology: Ethics of Collecting User Data in Modern Web Applications
+
+A Mixed-Methods Research Design is essential to evaluate both the technical engineering realities (what the code does) and the human ethical realities (how users are affected). Below is the structured breakdown of the recommended methodologies.
+
+## Methodology Mapping Matrix
+
+| Methodology Dimension                        | Specific Research Instrument / Tool                                                                                 | Primary Metrics & Target Data                                                                                                                                                 | Academic Literature Reference                                                                                    |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- |
+| **1. Automated Web Infrastructure Auditing** | • Headless Browser Web Crawlers<br>• Dynamic Network Traffic Telemetry<br>• Algorithmic Text & Interface Clustering | • DOM structure of cookie banners & consent dialogs<br>• XHR/Fetch network requests sent _prior_ to consent<br>• Semantic analysis of permission rationales                   | _Nouwens et al. (Paper 1)_<br>_Mathur et al. (Paper 2)_<br>_Koch et al. (Paper 3)_<br>_Elbitar et al. (Paper 4)_ |
+| **2. Empirical Behavioral Experiments**      | • Comparative A/B Interface Testing<br>• Friction & Time-on-Task Evaluation<br>• Targeted Psychometric Surveys      | • Mathematical variance in opt-in / opt-out rates<br>• Click counts & interaction time to reject data tracking<br>• User technical knowledge gap vs. behavior                 | _Nouwens et al. (Paper 1)_<br>_Bashir et al. (Paper 6)_<br>_Bongard-Blanchy et al. (Paper 7)_                    |
+| **3. Regulatory & Taxonomy Mapping**         | • Taxonomy Grouping via the DPAF<br>• Legal Compliance Auditing Rubric<br>• Choice Architecture Evaluation          | • Discovered dark pattern categories (e.g., Confirmshaming)<br>• Objective GDPR/CCPA compliance violation rates<br>• Interface properties (Ethical guidance vs. Manipulation) | _Soe et al. (Paper 5)_<br>_Nie et al. (Paper 8)_<br>_Simon et al. (Paper 9)_                                     |
+
+---
