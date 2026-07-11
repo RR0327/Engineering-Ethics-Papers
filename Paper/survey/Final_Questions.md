@@ -64,12 +64,12 @@
 - It depends on the website type / এটি ওয়েবসাইটের ধরনের ওপর নির্ভর করে
 - I do not know / আমি জানি না
 
-### 9. When companies share your digital footprint with third parties, what is the primary use? / কোম্পানিগুলো যখন আপনার ডিজিটাল ফুটপ্রিন্ট থার্ড-পার্টির সাথে শেয়ার করে, তখন তার প্রধান উদ্দেশ্য কী হয়?
+### 9. Which type of personal data are you most concerned about tracking networks sharing with other companies? / ট্র্যাকিং নেটওয়ার্কগুলো অন্য কোম্পানির সঙ্গে আপনার কোন ধরনের ব্যক্তিগত তথ্য শেয়ার করছে বলে আপনি সবচেয়ে বেশি চিন্তিত?
 
-- To deliver hyper-targeted advertisements to you / আপনাকে নির্দিষ্ট লক্ষ্যভিত্তিক বিজ্ঞাপন দেখানো
-- To delete your records instantly after browsing / আপনার ব্রাউজিং শেষ হওয়ার সাথে সাথে তথ্য মুছে ফেলা
-- To improve the base font loading speed of the page / শুধুমাত্র পেজের ফন্ট লোডিং গতি বাড়ানো
-- I am completely unsure / আমি সম্পূর্ণ নিশ্চিত নই
+- Financial or transactions information / আর্থিক বা লেনদেন সংক্রান্ত তথ্য
+- Real-time location and movement history / রিয়েল-টাইম লোকেশন এবং যাতায়াতের ইতিহাস
+- Private photos, videos, or device files / ব্যক্তিগত ছবি, ভিডিও বা ডিভাইসের ফাইল
+- Browsing preferences and shopping habits / ব্রাউজিং পছন্দ এবং কেনাকাটার অভ্যাস
 
 ### 10. Do you know what "third-party data tracking" across different websites means? / বিভিন্ন ওয়েবসাইট জুড়ে "থার্ড-পার্টি ডেটা ট্র্যাকিং" বলতে কী বোঝায় তা কি আপনি জানেন?
 
@@ -96,12 +96,12 @@
 - Sometimes / মাঝে মাঝে
 - Never / কখনোই না
 
-### 13. How often does rejecting tracking require clicking through multiple settings boxes one by one? / ট্র্যাকিং প্রত্যাখ্যান করার জন্য একের পর এক অনেকগুলো সেটিংস বক্স ম্যানুয়ালি বন্ধ করতে হয় — এমনটি কত ঘন ঘন ঘটে?
+### 13. Have confusing or multi-layered privacy settings ever discouraged you from changing them, causing you to leave the website entirely? / জটিল বা বহুমুখী প্রাইভেসি সেটিংসের কারণে বিরক্ত হয়ে আপনি কি কখনো সেটি পরিবর্তন করা থেকে বিরত থেকেছেন বা ওয়েবসাইটটিই ছেড়ে চলে গেছেন?
 
-- Always / সবসময়
-- Often / প্রায়ই
-- Sometimes / মাঝে মাঝে
-- Never / কখনোই না
+- Yes, very frequently / হ্যাঁ, প্রায়ই ঘটে
+- Yes, but only occasionally / হ্যাঁ, তবে মাঝে মাঝে ঘটে
+- No, I always complete the setup / না, আমি সবসময় সেটিংস ঠিক করি
+- No, I have never encountered this / না, আমি কখনো এমন পরিস্থিতির মুখোমুখি হইনি
 
 ### 14. Even when you know an interface is trying to trick you, do you still click accept just to move on? / ওয়েবসাইট আপনাকে ফাঁদে ফেলছে বুঝেও, আপনি কি শুধু এগিয়ে যাওয়ার জন্য "Accept" চাপেন?
 
@@ -174,12 +174,12 @@
 - No / না
 - It depends on the cost / এটি খরচের ওপর নির্ভর করে
 
-### 23. Who should hold the primary responsibility for preventing manipulative consent interfaces? / চতুর সম্মতি ইন্টারফেস বন্ধ করার জন্য সবচেয়ে বেশি দায়ী কে হওয়া উচিত?
+### 23. Should companies be legally accountable or face heavy fines if they share user data without explicit notification? / ব্যবহারকারীকে স্পষ্ট তথ্য না জানিয়ে ডেটা শেয়ার করলে কোম্পানিগুলোর কি আইনি জবাবদিহিতা বা বড় অঙ্কের জরিমানা হওয়া উচিত?
 
-- App and website developers / অ্যাপ ও ওয়েবসাইট ডেভেলপার
-- Company leadership teams / কোম্পানির নেতৃত্বদানকারী দল
-- Government regulators / সরকারি নিয়ন্ত্রক সংস্থা
-- All parties equally / সব পক্ষ সমানভাবে
+- Strongly Agree / জোরালোভাবে একমত
+- Agree / একমত
+- Neutral / নিরপেক্ষ
+- Disagree / দ্বিমত
 
 ### 24. Should cookie rejection options be just as easy to click as acceptance options? / ট্র্যাকিং প্রত্যাখ্যান করার বোতামটি কি গ্রহণ করার বোতামটির মতোই সহজ হওয়া উচিত?
 
