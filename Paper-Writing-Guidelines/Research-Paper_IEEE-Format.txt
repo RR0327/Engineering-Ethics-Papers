@@ -1,0 +1,51 @@
+Dear Students,
+You are required to prepare and submit a full-length research paper based on Engineering Ethics as part of the  course (theory component). The paper must be written following the standards of an IEEE conference submission.
+Purpose:
+This assignment is intended to simulate a real IEEE conference paper submission, helping you develop skills in technical writing, formatting, and professional presentation.
+Submission Guidelines
+
+1. Manuscript Preparation
+
+The manuscript must be prepared using the official IEEE conference template (2-column format).
+Strictly follow the attached guideline document.
+Papers that do not follow IEEE format will not be accepted.
+
+2. Paper Structure
+Your paper must include:
+
+Title and Author Information
+Abstract (150–250 words)
+Keywords (3–5)
+Introduction
+Related Work / Literature Review
+Methodology / System Design
+Implementation and Results
+Conclusion and Future Work
+References (IEEE style)
+
+3. Page Limit (Strict Requirement)
+
+The paper must be exactly 6 pages.
+Not less than 6 pages and not more than 6 pages will be accepted.
+Figures, tables, and references must be included within these 6 pages.
+
+4. Originality
+
+The paper must be original work.
+Proper citation using IEEE format is mandatory.
+Plagiarism will result in strict penalties.
+
+5. Figures and Tables
+
+All figures and tables must be clearly labeled and properly referenced.
+Maintain readability and proper formatting as per IEEE standards.
+
+6. Submission Details
+
+Format: Word Only
+File name: StudentID1 ,StudentID2,
+StudentID3_ProjectTitle.pdf
+Deadline: 25/07/2026
+
+Important Note:
+This is a strict simulation of IEEE conference submission. Non-compliance with formatting rules, especially the exact 6-page , will lead to rejection or grade reduction.
